@@ -1,4 +1,4 @@
-# retry-strategies-sim
+# retry-strategies-simulator
 
 A Go simulation that shows how different retry strategies affect server recovery after an outage. Run it and see the results as an ASCII histogram in your terminal.
 
